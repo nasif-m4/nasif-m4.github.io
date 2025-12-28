@@ -1,0 +1,27 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "G4392DS233.com.example.app_a"
+        ],
+        "paths": [
+          "/details"
+        ]
+      }, {
+        "appIDs": [
+          "G4392DS233.com.metafour.app_b"
+        ],
+        "paths": [
+          "/sign-in",
+          "/sign-out"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "G4392DS233.com.metafour.app_b"
+    ]
+  }
+}
